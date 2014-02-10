@@ -9,7 +9,7 @@ Author: Satoshi Watanabe
 Author URI: http://unk.jp.net/
 */
 function add_google_code_script(){
-	$google_code_script = "<script src='https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js?lang=css&skin=sunburst'></script>";
+	$google_code_script = "<script src='https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js'></script>";
 	echo $google_code_script;
 }
 
